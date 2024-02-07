@@ -259,11 +259,9 @@ body{
 	}
 	
 	#playlist{
-		
 		justify-content: center;
-		display: block;
-		
-	
+		display: block;	
+	}
 	
 }
 
