@@ -211,7 +211,9 @@ body{
 /* 
 #media query */
 @media (max-width:799px){
-	
+	#head{
+		padding-inline:5%;	
+	}
 	#menu {
 		
 		display:flex;
